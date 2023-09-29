@@ -37,7 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
@@ -46,9 +45,6 @@
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 [[Programador Full Stack Javascript](https://pro.onebitcode.com/)] @ [[One Bit Code](https://onebitcode.com/lp/courses.html)]
 
-<!--
-Substitua o usuário balicoelho pelo seu usuário no GitHub.
--->
 
 ### GitHub Stats ⚡
 <div>
